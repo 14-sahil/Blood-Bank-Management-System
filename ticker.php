@@ -13,7 +13,7 @@
       margin-left:auto;margin-right:auto;
   }
 }
-.blue {
+.blue { 
     background: #347fd0;
 }
 
